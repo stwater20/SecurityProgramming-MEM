@@ -8,6 +8,8 @@ SEI CERT C Coding Standard
 * MEM33-C. Allocate and copy structures containing a flexible array member dynamically
 * MEM34-C. Only free memory allocated dynamically
 
+##
+
 ## Risk Assessment Summary
 | Rule   | Severity | Likelihood | Remediation Cost | Priority | Level |
 |--------|----------|------------|------------------|----------|-------|
