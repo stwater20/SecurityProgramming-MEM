@@ -1,6 +1,6 @@
 # Security Programming - Rule 08. Memory Management (MEM)
 
-SEI CERT C Coding Standard
+The SEI CERT C Coding Standard outlines best practices for secure coding to prevent software vulnerabilities related to improper memory management. This section specifically addresses common risks and mitigation strategies associated with managing dynamic memory in C programming.
 
 ## Code Example
 * MEM30-C. Do not access freed memory
